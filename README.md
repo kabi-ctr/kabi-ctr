@@ -5,7 +5,7 @@
 🔐 **Cybersecurity Researcher** passionate about building secure and resilient systems  
 🎓 Currently pursuing **Master's in AI/Data Engineering** at University of Vaasa, Finland    
 🌱 Exploring the intersection of **AI and cybersecurity**  
-🔍 Research interests: **Blockchain security, AI-powered security solutions, and human factors in security**   
+🔍 Research interests: **Blockchain security, AI-powered security solutions**   
 
 
 ### 🎯 Current Focus
@@ -23,7 +23,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/er-kabir-poudel-842a471b7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-poudel-842a471b7) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poudelkabir31@gmail.com)
 
 
