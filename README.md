@@ -2,11 +2,9 @@
 
 ## 💫 About Me
 
-🔐 **Cybersecurity Researcher** passionate about building secure and resilient systems  
+🔐 **Computer Engineer** passionate about building secure and resilient systems  
 🎓 Currently pursuing **Master's in AI/Data Engineering** at University of Vaasa, Finland    
 🌱 Exploring the intersection of **AI and cybersecurity**  
-🔍 Research interests: **Blockchain security, AI-powered security solutions**   
-
 
 ### 🎯 Current Focus
 - Developing skills in AI-driven threat detection and security automation
