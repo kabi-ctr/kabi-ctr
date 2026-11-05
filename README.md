@@ -1,106 +1,61 @@
-# 👋 Hi, I'm Kabir Poudel
+# Kabir Poudel
 
-## 💫 About Me
+Computer engineer in Helsinki, Finland, working on security analysis, testing and data.
+MSc student in AI & Data Engineering at the University of Vaasa (2025–2027).
 
-🔐 **Computer Engineer** passionate about building secure and resilient systems  
-🎓 Currently pursuing **Master's in AI/Data Engineering** at University of Vaasa, Finland    
-🌱 Exploring the intersection of **AI and cybersecurity**  
+[LinkedIn](https://www.linkedin.com/in/kabir-poudel-842a471b7) · [Email](mailto:poudelkabir31@gmail.com) · English (C1) · Finnish (A2) · Nepali (native)
 
-### 🎯 Current Focus
-- Developing skills in AI-driven threat detection and security automation
-- Contributing to security research and practical security solutions
-- Building expertise in security frameworks (OWASP, NIST, MITRE ATT&CK)
-- Enhancing knowledge in cloud security (AWS, Azure)
-
-### 🏆 Certifications
-- 🎖️ Certified AppSec Practitioner (CAP)
-- 🐧 Linux Fundamentals for Security Practitioners
-- 🛡️ Security Operations Center in Practice (IBM)
-- 🔒 Introduction to Cybersecurity Tools & Cyber Attacks (IBM)
-- 🐍 Python for Everybody (University of Michigan, Coursera)
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-poudel-842a471b7) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poudelkabir31@gmail.com)
-
-
-## 💻 Tech Stack
-
-### 🔒 Security & Networking
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0093DD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-## 💼 Professional Experience
-
-**Security Researcher** @ Incybrix Security *(Aug 2024 - Jan 2025)*
-- Conducted security assessments and penetration testing on web applications and APIs
-- Developed Python automation scripts for security operations
-- Worked with development teams to integrate security controls and best practices into the software development lifecycle
-
-**Cyber Security Researcher** @ Eminence Ways *(Dec 2023 - Mar 2024)*
-- Performed VAPT engagements for enterprise clients
-- Documented security findings with detailed technical reports
-- Researched OWASP Top 10 vulnerabilities and attack techniques
-
-## 🎯 What I'm Looking For
-
-I am actively seeking opportunities to:
-- 🔐 Apply my cybersecurity knowledge in real-world security operations
-- 🌍 Contribute to building more secure digital ecosystems
-- 💡 Learn from experienced professionals and take on new challenges
-
-## 💭 Philosophy
-
-> "Security is not a product, but a process." - Bruce Schneier
-
-I believe in continuous learning, practical problem-solving, and building security-first solutions. Every challenge is an opportunity to learn and improve.
+**Open to:** junior, intern/trainee and part-time roles in security operations, application security, data engineering, or test & verification. Finland (on-site or hybrid) or remote within the EU.
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Projects
 
----
+**[log_analyzer](https://github.com/kabi-ctr/log_analyzer)**: Python CLI for OpenSSH authentication logs
+- Parses `sshd` login events and flags any IP with N failed logins inside a sliding time window. The rule is set in YAML (default: 5 failures in 10 minutes).
+- Writes a Markdown report with suggested `nftables` / `iptables` block rules. Nothing is executed automatically.
+- pandas · pytest unit tests · ruff lint · GitHub Actions CI on every push
 
-[![](https://visitcount.itsvg.in/api?id=kabi-ctr&icon=0&color=0)](https://visitcount.itsvg.in)
+**[security_analyst_training](https://github.com/kabi-ctr/security_analyst_training)**: SOC lab cases, written up as analyst reports
+- [Phishing IOC analysis](https://github.com/kabi-ctr/security_analyst_training/blob/main/threat_intelligence/IOC_analysis.md) (LetsDefend SOC282): detonated the attachment in ANY.RUN, checked hashes and domains in VirusTotal, extracted hashes, IPs and domains for blocking.
+- [Phishing incident report](https://github.com/kabi-ctr/security_analyst_training/blob/main/incident-response/phishing-incident-report.md) (LetsDefend SOC146) and an [incident response playbook](https://github.com/kabi-ctr/security_analyst_training/blob/main/incident-response/incident-response-playbook.md).
+- [Spam text classifier](https://github.com/kabi-ctr/security_analyst_training/tree/main/threat-detection-ml/phishing_email_detector): TF-IDF features; compared logistic regression, naive Bayes, SVM and a decision tree on the SMS Spam Collection (5,572 messages). Naive Bayes reached 97.3% accuracy.
+- Notes on MITRE ATT&CK, networking and Linux.
+
+**Not on GitHub**
+- **Online Garage Searching System** (Flutter, Firebase): finds the three nearest garages for the user's location and vehicle problem, using GPS, Google Maps and the Haversine formula.
+- **Regulated DC power supply** (IOE electronics lab): bridge rectifier, capacitor filter and Zener regulator. Verified output voltage, load regulation and ripple with an oscilloscope and multimeter; troubleshot faults stage by stage.
+
+## Thesis (in progress)
+
+Machine-learning-based test case prioritization for continuous integration.
+
+## Experience
+
+**Security Researcher**, Incybrix Security, Nepal · Aug 2024 – Jan 2025 · full-time
+- Security assessments and penetration tests on web applications and APIs; each finding documented with evidence.
+- Python scripts to automate security operations tasks.
+- Worked with development teams to build security controls into the software development lifecycle.
+
+**Cyber Security Researcher (Intern)**, Eminence Ways, Nepal · Dec 2023 – Mar 2024
+- Vulnerability assessment and penetration testing (VAPT) for enterprise clients across web apps, mobile apps and network infrastructure.
+- Technical reports with risk ratings and corrective-action recommendations.
+
+## Education
+
+- **MSc, AI & Data Engineering**, University of Vaasa, Finland · 2025 – 2027 (expected)
+  Coursework includes applied machine learning, computer vision, data governance, advanced data architecture and system integration. Project management case study with Wapice Ltd (Agile/Scrum, ISO-aligned quality management).
+- **B.E., Computer Engineering**, Tribhuvan University (IOE), Nepal · 2019 – 2024
+  Analog and digital circuit, digital logic and microprocessor labs.
+
+## Certifications
+
+- **Certified AppSec Practitioner (CAP)**, The SecOps Group, 2024
+- Coursework: Security Operations Center in Practice (IBM, 2025) · Introduction to Cybersecurity Tools & Cyber Attacks (IBM) · Linux Fundamentals for Security Practitioners (Cybrary) · Python for Everybody (Coursera, 2022)
+
+## Tools
+
+- **Security:** Burp Suite, Nmap, Wireshark, OWASP Top 10, MITRE ATT&CK, VirusTotal, ANY.RUN
+- **Code & testing:** Python, pandas, scikit-learn, Jupyter, pytest, ruff, GitHub Actions
+- **Platforms:** Linux, Git, Flutter/Dart, Firebase
+- **Lab equipment:** oscilloscope, digital multimeter, function generator, bench DC power supply
