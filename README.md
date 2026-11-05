@@ -1,7 +1,6 @@
 # Kabir Poudel
 
-Computer engineer in Helsinki, Finland, working on security analysis, testing and data.
-MSc student in AI & Data Engineering at the University of Vaasa (2025–2027).
+Computer Engineering graduate and M.Sc. student in AI and Data Engineering (University of Vaasa). Solid SQL and Linux foundation, hands-on experience parsing and analysing large volumes of log data, and a methodical, detail-oriented way of tracing problems to their cause.
 
 [LinkedIn](https://www.linkedin.com/in/kabir-poudel-842a471b7) · [Email](mailto:poudelkabir31@gmail.com) · English (C1) · Finnish (A2) · Nepali (native)
 
