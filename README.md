@@ -10,6 +10,12 @@ Computer Engineering graduate and M.Sc. student in AI and Data Engineering (Univ
 
 ## Projects
 
+**[train_punctuality_elt](https://github.com/kabi-ctr/train_punctuality_elt)**: ELT pipeline for Finnish train punctuality
+- Extracts every train run in Finland from the Digitraffic open API each day, lands the raw JSON, loads it into DuckDB and models punctuality marts in dbt.
+- Incremental fact tables, idempotent partition loads, 45 dbt data tests, a dbt unit test and an end-to-end test on recorded API data.
+- Runs every morning in GitHub Actions and publishes a punctuality report (about 1,800 train runs and 71,000 timetable rows per day).
+- Python · SQL · DuckDB · dbt · GitHub Actions · Parquet
+
 **[log_analyzer](https://github.com/kabi-ctr/log_analyzer)**: Python CLI for OpenSSH authentication logs
 - Parses `sshd` login events and flags any IP with N failed logins inside a sliding time window. The rule is set in YAML (default: 5 failures in 10 minutes).
 - Writes a Markdown report with suggested `nftables` / `iptables` block rules. Nothing is executed automatically.
@@ -55,6 +61,7 @@ Machine-learning-based test case prioritization for continuous integration.
 ## Tools
 
 - **Security:** Burp Suite, Nmap, Wireshark, OWASP Top 10, MITRE ATT&CK, VirusTotal, ANY.RUN
-- **Code & testing:** Python, pandas, scikit-learn, Jupyter, pytest, ruff, GitHub Actions
+- **Code & testing:** Python, SQL, pandas, scikit-learn, Jupyter, pytest, ruff, GitHub Actions
+- **Data:** DuckDB, dbt, Parquet
 - **Platforms:** Linux, Git, Flutter/Dart, Firebase
 - **Lab equipment:** oscilloscope, digital multimeter, function generator, bench DC power supply
